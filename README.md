@@ -22,7 +22,7 @@ Welcome to **Echrily**! This is a public showcase of the Echrily project, an e-c
 ## Hosting and Deployment
 - Hosting: The Echrily website is hosted on an OVHCloud VPS (initially on Azure free hosting tier).
 - Process Manager : PM2
-- Reverse Proxy: NGINX
+- Reverse Proxy: Nginx
 
 ## Note
 The full codebase and detailed implementation are hosted in a private repository for security and privacy reasons. This repository serves as an overview for the Echrily project.
