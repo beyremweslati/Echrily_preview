@@ -16,7 +16,7 @@ Welcome to **Echrily**! This is a public showcase of the Echrily project, an e-c
 - Secure Admin Access: Authentication and role-based access control.
   
 ## Technologies
-- Frontend: Vanilla JavaScript (main website) , React.js, Material UI (Admin Dashboard), nivo.rocks (Charts).
+- Frontend: JavaScript (main website), React.js, Material UI (Admin Dashboard), nivo.rocks (Charts).
 - Backend: Node.js, Express.js, MongoDB.
 
 ## Hosting and Deployment
