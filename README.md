@@ -25,7 +25,7 @@ Welcome to **Echrily**! This is a public showcase of the Echrily project, an e-c
 - Reverse Proxy: Nginx
 
 ## Note
-The full codebase and detailed implementation are hosted in a private repository for security and privacy reasons. This repository serves as an overview for the Echrily project.
+The full codebase of the Echrily platform and detailed implementation are hosted in a private repository for security and privacy reasons. This repository serves as an overview for the Echrily project.
 
 ## Live At
 Check out the live version at: [echrily.shop](https://echrily.shop)
