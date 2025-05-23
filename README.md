@@ -29,3 +29,47 @@ The full codebase of the Echrily platform and detailed implementation are hosted
 
 ## Live At
 Check out the live version at: [echrily.shop](https://echrily.shop)
+
+## Admin Dashboard Preview
+
+Here are some screenshots of the admin dashboard interface with sample data:
+
+### Dashboard Overview
+![Admin Dashboard Overview](/Screenshots/Screenshot1.png)
+*Main dashboard showing key metrics and overview*
+
+### Games DB
+![Games Database](/Screenshots/Screenshot2.png)  
+*View of all games in the database*
+
+### Orders Management
+![Orders Dashboard](/Screenshots/Screenshot3.png)  
+*Order processing interface with customer details and status tracking*
+
+### Content Management
+![Add New Game](/Screenshots/Screenshot4.png)  
+*Add new games to the platform*
+
+### Admin Management
+![Add New Admin](/Screenshots/Screenshot5.png)  
+*Interface for creating new admin accounts*
+
+### Analytics
+![Game Performance](/Screenshots/Screenshot6.png)
+*Top games by copies sold and total revenue*
+
+---
+
+![Platform Sales](/Screenshots/Screenshot7.png)  
+*Revenue distribution across different game platforms*
+
+---
+
+![Sales Timeline](/Screenshots/Screenshot8.png)  
+*Daily sales and orders tracking*
+
+### Account Settings
+![Admin Account](/Screenshots/Screenshot9.png)  
+*Admin profile management*
+
+> Note: All displayed data is mock information for demonstration purposes.
