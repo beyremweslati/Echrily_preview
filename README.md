@@ -9,7 +9,7 @@ Welcome to **Echrily**! This is a public showcase of the Echrily project, an e-c
 - Interactive Cart: Add games to your cart, view totals, and modify items in real-time.
 - Price Optimization: Automatically fetch the best prices for games from the three main markets: Steam, Epic Games Store, and EA Games.
   
-## Admin Dashboard features (in Progress)
+## Admin Dashboard features
 - Game Management: Search for games using the RAWG API and add them directly to the store.
 - View and Manage Games and Orders: Easily browse through the list of games and customer orders, with options to update game details and process orders efficiently.
 - Analytics and Statistics: Visualize sales trends and platform popularity with interactive bar charts and other graphical insights.
