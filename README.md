@@ -36,31 +36,31 @@ Here are some screenshots of the main website interface:
 
 ### Landing Page
 ![Landing Page](/Screenshots/main/Screenshot01.png)
-*Main landing page showcasing Trending and popular games
+*Main landing page showcasing Trending and popular games*
 
 ### Game Store
 ![Game Store Page](/Screenshots/main/Screenshot02.png)
-*Browse all available games with search and filtering options
+*Browse all available games with search and filtering options*
 
 ### Game Details
 ![Game Details Page](/Screenshots/main/Screenshot03.png)
-*Detailed game page with description, rating and pricing
+*Detailed game page with description, rating and pricing*
 
 ### In-Game Currency
 ![In-Game Currency Page](/Screenshots/main/Screenshot04.png)
-*Interface for purchasing in-game currency
+*Interface for purchasing in-game currency*
 
 ### Cart (Empty)
 ![Cart Empty Page](/Screenshots/main/Screenshot05.png)
-*Empty Shopping cart view
+*Empty Shopping cart view*
 
 ### Cart (With Items)
 ![Cart Page](/Screenshots/main/Screenshot06.png)
-*Shopping cart displaying selected games and total cost
+*Shopping cart displaying selected games and total cost*
 
 ### Favourite Games
 ![Favourite Games Page](/Screenshots/main/Screenshot07.png)
-*User’s favourite games list for quick access
+*User’s favourite games list for quick access*
 
 ## Admin Dashboard Preview
 
